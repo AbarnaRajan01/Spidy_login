@@ -89,7 +89,7 @@ export default function LoginForm() {
             <Image
               src={spidy}
               alt="spidy"
-              className="h-[500] mt-[-60] w-[700]"
+              className="h-[400] mt-[-60] w-[600]"
             />
           </motion.div>
         </div>
